@@ -110,7 +110,7 @@ disqusShortname = ""
     [[params.tiles.showcase]]
       title = "The Popularity of Sci-fi Films"
       subtitle = "Bradley Hopkins"
-      url = "midterm_project_Hopkins.html"
+      url = "midterm/midterm_project_Hopkins.html"
     
     [[params.tiles.showcase]]
       title = "The Friends Dataset and Emotions"
