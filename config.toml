@@ -1,7 +1,7 @@
 # Site settings
 baseURL = "/"
 languageCode = "en-us"
-title = "Portfolio for Ted Laderas, PhD"
+title = "SPH507 Midterm Projects"
 theme = "forty"
 
 # Enter your tracking code to enable Google Analytics
@@ -19,8 +19,8 @@ disqusShortname = ""
   # CSS class.
 
   # Provide your metadata here.
-  name = "Ted Laderas"
-  description = "Portfolio/CV for Ted Laderas"
+  name = "SPH 507 Midterm Projects"
+  description = "Midterm Projects for OHSU/PSU School of Public Health R Programming Course"
 
   # Link custom assets relative to /static
   custom_css = []
@@ -39,8 +39,8 @@ disqusShortname = ""
 
   # Navigation Section
   [params.navigation]
-    title = "Ted Laderas, PhD"
-    subtitle = "Data Scientist, Educator, and Collaborator"
+    title = ""
+    subtitle = ""
     menu = "Menu"
     # Optional logo as brand stored in img/
     # logo = "logo.png"
@@ -75,8 +75,8 @@ disqusShortname = ""
   [params.banner]
     # To change the background image on the homepage banner, replace 'banner.jpg' in
     # the 'static/img' folder.
-    title = "Ted Laderas, PhD"
-    subtitle = "Portfolio of Data Science and Visualization Projects"
+    title = "SPH 507 Midterm Projects"
+    subtitle = "Portfolio of Midterm Projects"
     buttonText = "Curriculum Vitae"
     url = "cv/"
 
@@ -86,73 +86,78 @@ disqusShortname = ""
     enable = true
     # Display your showcases here.
     [[params.tiles.showcase]]
-      title = "Lesser Known Tidyverse Functions"
-      subtitle = "Parsing a twitter thread about tidyverse functions"
-      url = "projects/tidyverse_functions"
-      image = "projects/top_functions.jpg"
+      title = "Understanding Plastic Waste"
+      subtitle = "Lindsay Brown"
+      url = "midterm/midterm_brown.html"
 
     
     [[params.tiles.showcase]]
-      title = "Chopped Judges"
-      subtitle = "Are judges associated with overall episode rating?"
-      image = "projects/chopped.png"
-      url = "projects/chopped"
+      title = "Animal Crossing Items"
+      subtitle = "Becky Kempton"
+      url = "midterm/midterm_Kempton.html"
 
     
     [[params.tiles.showcase]]
-      title = "Avatar Sentiment Journeys"
-      subtitle = "Understanding each character's journey through sentiment analysis"
-      image = "projects/zuko.png"
-      url = "projects/avatar"
+      title = "Board Game Ratings"
+      subtitle = "Nathalie Garimella"
+      url = "midterm/midterm_Proj.NGarimella.html"
 
     [[params.tiles.showcase]]
-      title = "Shiny App: Palmer Penguin Party"
-      subtitle = "Using decision trees to build a species predictor for the Palmer Penguin Dataset"
-      image = "projects/penguin_party.png"
-      url = "https://tladeras.shinyapps.io/penguin_party/"
-    
+      title = "USDA Dairy Products"
+      subtitle = "Amanda Brunton"
+      url = "midterm/midterm_project_brunton.html"
     
     [[params.tiles.showcase]]
-      title = "Project: Understanding Coffee Scores"
-      subtitle = "Does processing method influence overall score?"
-      image = "projects/coffee.png"
-      url = "projects/coffee"
+      title = "The Popularity of Sci-fi Films"
+      subtitle = "Bradley Hopkins"
+      url = "midterm_project_Hopkins.html"
     
     [[params.tiles.showcase]]
-      title = "Project: Choropleth of Ready for R Class"
-      subtitle = "Where are the Ready for R Students From?"
-      image = "projects/choropleth.png"
-      url = "projects/choropleth"
+      title = "The Friends Dataset and Emotions"
+      subtitle = "Farzana Naoshin"
+      url = "midterm/midterm_project_naoshin.html"
 
     [[params.tiles.showcase]]
-      title = "Project: Animal Crossing Tidy Tuesday"
-      subtitle = "What personality/animal combos are unique?"
-      image = "projects/ac.png"
-      url = "projects/animal_crossing"
+      title = "MMR Vaccination Rates in Oregon"
+      subtitle = "Stephanie Elliott"
+      url = "midterm/midterm_project_selliot.html"
 
     [[params.tiles.showcase]]
-      title = "Course: Ready for R"
-      subtitle = "A gentle introduction to the R and the tidyverse"
-      image = "projects/ready4r.png"
-      url = "https://ready4r.netlify.app"
+      title = "Pregnancy and Smoking"
+      subtitle = "Bradie Winders"
+      url = "midterm/midterm_project_winders.html"
 
     [[params.tiles.showcase]]
-      title = "Course: Stats for Neuroscientists"
-      subtitle = "A Course on Statistical Image Processing for Neuroscientists new to computing"
-      image = "projects/stats4neuro.png"
-      url = "https://stats4neuro.netlify.app"
+      title = "Coffee Ratings"
+      subtitle = "Amy Olyaei and Sara Siadat"
+      url = "midterm/midterm_project-amysara.html"
       
     [[params.tiles.showcase]]
-      title = "Course: R-Bootcamp"
-      subtitle = "An interactive introduction to the tidyverse"
-      image = "projects/r-bootcamp.jpg"
-      url = "https://r-bootcamp.netlify.app"
+      title = "Understanding Avatar: The Last Airbender"
+      subtitle = "Martin Arrigotti"
+      url = "midterm/midterm_project_Arrigotti.html"
 
     [[params.tiles.showcase]]
-      title = "Workshop: A gRadual Introduction to Shiny"
-      subtitle = "A short workshop introducing basic shiny programming concepts"
-      #image = "projects/r-bootcamp.jpg"
-      url = "https://laderast.github.io/gradual_shiny/"
+      title = "Understanding CO2 Emissions"
+      subtitle = "Lisa Rogash and Sam Callis"
+      url = "midterm/midterm_project-rogash.html"
+
+    [[params.tiles.showcase]]
+      title = "MMR Vaccinations in Oregon"
+      subtitle = "Jessica Kramarz"
+      url = "midterm/midterm_project-kramarz.html"
+
+    [[params.tiles.showcase]]
+      title = "Movie Box Office and Studios"
+      subtitle = "Bryon Langford"
+      url = "midterm/midterm_project-Langford.html"
+
+    [[params.tiles.showcase]]
+      title = "Tuberculosis Mortality"
+      subtitle = "Jessica Tran"
+      url = "midterm/midterm_project-Tran.html"
+
+
 
     # You can make more showcases by copy and pasting the code above
 
