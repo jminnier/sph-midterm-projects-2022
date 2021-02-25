@@ -96,6 +96,12 @@ disqusShortname = ""
       subtitle = "Becky Kempton"
       url = "midterm/midterm_Kempton.html"
 
+    [[params.tiles.showcase]]
+      title = "Investigating Moore's Law"
+      subtitle = "Colin Hawkinson"
+      url = "midterm/midterm_project_hawkinson.html"
+
+
     
     [[params.tiles.showcase]]
       title = "Board Game Ratings"
