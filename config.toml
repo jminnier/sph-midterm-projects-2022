@@ -135,7 +135,7 @@ disqusShortname = ""
     [[params.tiles.showcase]]
       title = "Understanding Avatar: The Last Airbender"
       subtitle = "Martin Arrigotti"
-      url = "midterm/midterm_project_Arrigotti.html"
+      url = "midterm/midterm_project-Arrigotti.html"
 
     [[params.tiles.showcase]]
       title = "Understanding CO2 Emissions"
