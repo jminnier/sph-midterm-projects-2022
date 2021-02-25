@@ -100,7 +100,7 @@ disqusShortname = ""
     [[params.tiles.showcase]]
       title = "Board Game Ratings"
       subtitle = "Nathalie Garimella"
-      url = "midterm/midterm_Proj.NGarimella.html"
+      url = "midterm/midterm_Proj_NGarimella.html"
 
     [[params.tiles.showcase]]
       title = "USDA Dairy Products"
@@ -219,14 +219,14 @@ disqusShortname = ""
 
   # Footer section
   [params.footer]
-    enable = true
-    copyright = "Ted Laderas"
+    enable = false
+    #copyright = "Ted Laderas"
 
     # Uses font awesome icons
-    [[params.footer.social]]
-      icon = "fa-twitter"
-      url= "https://www.twitter.com/tladeras"
-      label = "Twitter"
+    #[[params.footer.social]]
+    #  icon = "fa-twitter"
+    #  url= "https://www.twitter.com/tladeras"
+    #  label = "Twitter"
 
     #[[params.footer.social]]
      # icon = "fa-facebook"
@@ -238,17 +238,17 @@ disqusShortname = ""
       #url= "https://www.instagram.com"
       #label = "Instagram"
     
-    [[params.footer.social]]
-      icon = "fa-github"
-      url= "https://www.github.com/laderast"
-      label = "GitHub"
+    #[[params.footer.social]]
+    #  icon = "fa-github"
+    #  url= "https://www.github.com/laderast"
+    #  label = "GitHub"
 
-    [[params.footer.social]]
-      icon = "fa-linkedin"
-      url= "https://www.linkedin.com/in/ted-laderas-0714a92/"
-      label = "LinkedIn"
+    #[[params.footer.social]]
+    #  icon = "fa-linkedin"
+    #  url= "https://www.linkedin.com/in/ted-laderas-0714a92/"
+    #  label = "LinkedIn"
 
-    [[params.footer.quicklinks]]
-      text = "Design: "
-      url= "https://www.html5up.net"
-      alt = "HTML5 UP"
+    #[[params.footer.quicklinks]]
+    #  text = "Design: "
+    #  url= "https://www.html5up.net"
+    #  alt = "HTML5 UP"
