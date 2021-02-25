@@ -101,7 +101,10 @@ disqusShortname = ""
       subtitle = "Colin Hawkinson"
       url = "midterm/midterm_project_hawkinson.html"
 
-
+    [[params.tiles.showcase]]
+      title = "Dangerous Theme Park Rides"
+      subtitle = "Claire Bradbury"
+      url = "midterm/midterm_project_bradbury.html"
     
     [[params.tiles.showcase]]
       title = "Board Game Ratings"
