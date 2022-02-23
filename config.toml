@@ -1,7 +1,7 @@
 # Site settings
 baseURL = "/"
 languageCode = "en-us"
-title = "BSTA504-2022 Midterm Projects"
+title = "OHSU BSTA504-2022 Midterm Projects"
 theme = "forty"
 
 # Enter your tracking code to enable Google Analytics
@@ -211,7 +211,7 @@ disqusShortname = ""
 
   # Footer section
   [params.footer]
-    enable = false
+    enable = true
     #copyright = "Ted Laderas"
 
     # Uses font awesome icons
@@ -240,7 +240,7 @@ disqusShortname = ""
     #  url= "https://www.linkedin.com/in/ted-laderas-0714a92/"
     #  label = "LinkedIn"
 
-    #[[params.footer.quicklinks]]
-    #  text = "Design: "
-    #  url= "https://www.html5up.net"
-    #  alt = "HTML5 UP"
+    [[params.footer.quicklinks]]
+      text = "Course Website: "
+      url= "https://sph-r-programming-2022.netlify.app/"
+      alt = "OHSU SPH BSTA 504 Website"
