@@ -1,7 +1,7 @@
 # Site settings
 baseURL = "/"
 languageCode = "en-us"
-title = "SPH507 Midterm Projects"
+title = "BSTA504-2022 Midterm Projects"
 theme = "forty"
 
 # Enter your tracking code to enable Google Analytics
@@ -19,7 +19,7 @@ disqusShortname = ""
   # CSS class.
 
   # Provide your metadata here.
-  name = "OHSU/PSU SPH BSTA 504 Midterm Projects"
+  name = "OHSU/PSU SPH BSTA 504 Midterm Projects 2022"
   description = "Midterm Projects for OHSU/PSU School of Public Health R Programming Course"
 
   # Link custom assets relative to /static
@@ -75,7 +75,7 @@ disqusShortname = ""
   [params.banner]
     # To change the background image on the homepage banner, replace 'banner.jpg' in
     # the 'static/img' folder.
-    title = "OHSU/PSU SPH BSTA 504 Midterm Projects"
+    title = "OHSU/PSU SPH BSTA 504 Midterm Projects 2022"
     subtitle = "Midterm Projects for OHSU/PSU School of Public Health R Programming Course"
 
 
@@ -84,85 +84,70 @@ disqusShortname = ""
     enable = true
     # Display your showcases here.
     [[params.tiles.showcase]]
-      title = "Understanding Plastic Waste"
-      subtitle = "Lindsay Brown"
-      url = "midterm/midterm_brown.html"
+      title = "Beer Production by Season"
+      subtitle = "Ashley Blair & Mia Truman"
+      url = "midterm/midterm_blair.html"
 
     
     [[params.tiles.showcase]]
-      title = "Animal Crossing Items"
-      subtitle = "Becky Kempton"
-      url = "midterm/midterm_Kempton.html"
+      title = "Chocolate Ratings and Regions"
+      subtitle = "Barbara Casessese"
+      url = "midterm/midterm_cassese.html"
 
     [[params.tiles.showcase]]
-      title = "Investigating Moore's Law"
-      subtitle = "Colin Hawkinson"
-      url = "midterm/midterm_project_hawkinson.html"
+      title = "Growth of Death + Black Metal"
+      subtitle = "Saffron Evergreen"
+      url = "midterm/midterm_evergreen.html"
 
     [[params.tiles.showcase]]
-      title = "Dangerous Theme Park Rides"
-      subtitle = "Claire Bradbury"
-      url = "midterm/midterm_project_bradbury.html"
+      title = "Pregnancy Desires and Contraceptive Use in COVID-19"
+      subtitle = "Laura Jacobson"
+      url = "midterm/midterm_jacobson.html"
     
     [[params.tiles.showcase]]
-      title = "Board Game Ratings"
-      subtitle = "Nathalie Garimella"
-      url = "midterm/midterm_Proj_NGarimella.html"
+      title = "Chocolate Ratings and Ingredients"
+      subtitle = "Ngoc Le"
+      url = "midterm/midterm_le.html"
 
     [[params.tiles.showcase]]
-      title = "USDA Dairy Products"
-      subtitle = "Amanda Brunton"
-      url = "midterm/midterm_project_brunton.html"
+      title = "Bee Colony Loss and Stressors"
+      subtitle = "Kathryn Liu"
+      url = "midterm/midterm_liu_k.html"
     
     [[params.tiles.showcase]]
-      title = "The Popularity of Sci-fi Films"
-      subtitle = "Bradley Hopkins"
-      url = "midterm/midterm_project_Hopkins.html"
+      title = "Chocolate Ratings and Ingredients"
+      subtitle = "Qijia Liu"
+      url = "midterm/midterm_liu_q.html"
     
     [[params.tiles.showcase]]
-      title = "The Friends Dataset and Emotions"
-      subtitle = "Farzana Naoshin"
-      url = "midterm/midterm_project_naoshin.html"
+      title = "Gender Pay Gap"
+      subtitle = "Yan Liu"
+      url = "midterm/midterm_liu_y.html"
 
     [[params.tiles.showcase]]
-      title = "MMR Vaccination Rates in Oregon"
-      subtitle = "Stephanie Elliott"
-      url = "midterm/midterm_project_selliot.html"
+      title = "Winter Olympics"
+      subtitle = "Trisha Marsh"
+      url = "midterm/midterm_marsh.html"
 
     [[params.tiles.showcase]]
-      title = "Pregnancy and Smoking"
-      subtitle = "Bradie Winders"
-      url = "midterm/midterm_project_winders.html"
+      title = "Bee Colony Collapse in the PNW"
+      subtitle = "Mary McDonnell"
+      url = "midterm/midterm_mcdonnell.html"
+
+    [[params.tiles.showcase]]
+      title = "Bee Colony Collapse and Climate Change"
+      subtitle = "Shauna Rakshe"
+      url = "midterm/midterm_rakshe.html"
+
+    [[params.tiles.showcase]]
+      title = "Obesity and Aging"
+      subtitle = "Liz Wagner"
+      url = "midterm/midterm_wagner.html"
 
     [[params.tiles.showcase]]
       title = "Coffee Ratings"
-      subtitle = "Amy Olyaei and Sara Siadat"
-      url = "midterm/midterm_project-amysara.html"
-      
-    [[params.tiles.showcase]]
-      title = "Understanding Avatar: The Last Airbender"
-      subtitle = "Martin Arrigotti"
-      url = "midterm/midterm_project-Arrigotti.html"
-
-    [[params.tiles.showcase]]
-      title = "Understanding CO2 Emissions"
-      subtitle = "Lisa Rogash and Sam Callis"
-      url = "midterm/midterm_project-rogash.html"
-
-    [[params.tiles.showcase]]
-      title = "MMR Vaccinations in Oregon"
-      subtitle = "Jessica Kramarz"
-      url = "midterm/midterm_project-kramarz.html"
-
-    [[params.tiles.showcase]]
-      title = "Movie Box Office and Studios"
-      subtitle = "Bryon Langford"
-      url = "midterm/midterm_project-Langford.html"
-
-    [[params.tiles.showcase]]
-      title = "Tuberculosis Mortality"
-      subtitle = "Jessica Tran"
-      url = "midterm/midterm_project-Tran.html"
+      subtitle = "Libby White"
+      url = "midterm/midterm_white.html"
 
 
 
