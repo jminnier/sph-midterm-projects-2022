@@ -1,7 +1,7 @@
 # Site settings
 baseURL = "/"
 languageCode = "en-us"
-title = "OHSU BSTA504-2022 Midterm Projects"
+title = "OHSU/PSU SPH BSTA504 Midterm Projects 2022"
 theme = "forty"
 
 # Enter your tracking code to enable Google Analytics
@@ -19,7 +19,7 @@ disqusShortname = ""
   # CSS class.
 
   # Provide your metadata here.
-  name = "OHSU/PSU SPH BSTA 504 Midterm Projects 2022"
+  name = "OHSU/PSU BSTA 504 Midterm Projects 2022"
   description = "Midterm Projects for OHSU/PSU School of Public Health R Programming Course"
 
   # Link custom assets relative to /static
@@ -49,9 +49,9 @@ disqusShortname = ""
       name = "Home"
       url = "#"
 
-    [[params.navigation.links]]
-      name = "Blog"
-      url = "blogs"
+    #[[params.navigation.links]]
+    #  name = "Blog"
+    #  url = "blogs"
 
     # Add custom links here by uncommenting code below. To remove links just delete
     # the [[params.navigation.links]] map associated with that link. Copy and paste
@@ -75,7 +75,7 @@ disqusShortname = ""
   [params.banner]
     # To change the background image on the homepage banner, replace 'banner.jpg' in
     # the 'static/img' folder.
-    title = "OHSU/PSU SPH BSTA 504 Midterm Projects 2022"
+    title = "OHSU/PSU BSTA 504 Midterm Projects 2022"
     subtitle = "Midterm Projects for OHSU/PSU School of Public Health R Programming Course"
 
 
