@@ -138,6 +138,11 @@ disqusShortname = ""
       title = "Bee Colony Collapse and Climate Change"
       subtitle = "Shauna Rakshe"
       url = "midterm/midterm_rakshe.html"
+            
+    [[params.tiles.showcase]]
+      title = "DBD Horror Game Tournament"
+      subtitle = "Joseph Vera"
+      url = "midterm/midterm_vera.html"
 
     [[params.tiles.showcase]]
       title = "Obesity and Aging"
@@ -148,6 +153,7 @@ disqusShortname = ""
       title = "Coffee Ratings"
       subtitle = "Libby White"
       url = "midterm/midterm_white.html"
+
 
 
 
